@@ -12,7 +12,7 @@
 6. 每一張圖片要有機房左側背景，圖片上要有你的學號(或後兩碼)，圖片標註要跟老師所標註的類似。違者會依情節扣分。
 7. 請自評分數，將每一題的 ? 填入分數，沒有填者，不會批改，以 0 分計算。
 
-##### Your (Name, ID): (?, ?)
+##### Your (Name, ID): (周浩偉, 212410061)
 
 Mid1: 60% 斷網
 
@@ -27,79 +27,51 @@ Mid2: 40% 開放網路
 - P6 (10%): 10 分
 - P7 (20%): 20 分
 
-##### 總分: ? 分
+##### 總分: 100 分
 
 ## Mid2
 
 #### (10%) P5: 顯示 Github and Vercel for quiz1
 
-##### => 顯示 Github 上課 demo URL
-
-[Github Demo URL](https://github.com/htchung/1132-2N-demo-xx)
-
-##### => 顯示 Github URL and Vercel URL for midterm
-
-[Github Midterm URL](https://github.com/htchung/1132_2N_midterm_xx)
-
-[Vercel Midterm URL](https://1132-2-n-midterm-xx.vercel.app/)
-
-![p5_1_xx.png](p5_1_xx.png)
-
-![p5_1_1_xx.png](p5_1_1_xx.png)
-
-##### => 顯示 Vercel URL for demo/w02 tailwind demo
-
-![p5_2_xx.png](p5_2_xx.png)
-
 #### Your Answer
 
 ##### => 顯示 Github demo URL
 
-[Github Demo URL](https://github.com/htchung/1132-2N-demo-xx)
+[Github Demo URL](https://github.com/haowei212410061/1132-2N-demo-61)
 
 ##### => 顯示 Github midterm URL and Vercel URL
 
-[Github Midterm URL](https://github.com/htchung/1132_2N_midterm_xx)
+[Vercel Midterm URL](https://github.com/haowei212410061/1132-2N-midterm-61)
 
-[Vercel Midterm URL](https://1132-2-n-midterm-xx.vercel.app/)
-
-![p5_3_xx.png](p5_3_xx.png)
+![p5_3_61.png](p5_3_61.png)
 
 ##### => Github Midterm URL 分享給老師及助教
 
-![p5_4_xx.png](p5_4_xx.png)
+![p5_4_61.png](p5_4_61.png)
 
 ##### => 顯示 Vercel URL for demo/w02 tailwind demo
 
-![p5_5_xx.png](p5_5_xx.png)
+![p5_5_61.png](p5_5_61.png)
 
 ---
 
 #### (10%) P6: 顯示 Github and Vercel for mid1
 
-##### => Vercel URL and page for P1 (for root route)
-
-![p6_1_xx.png](p6_1_xx.png)
-
-##### => 顯示 Vercel URL and page for P2 (for p1_xx)
-
-![p6_2_xx.png](p6_2_xx.png)
-
 #### Your Answer
 
 ##### => Vercel URL and page for P1 (for root route)
 
-![p6_1_xx.png](p6_1_xx.png)
+![p6_1_61.png](p6_1_61.png)
 
-##### => 顯示 Vercel URL and page for P2 (for p1_xx)
+##### => 顯示 Vercel URL and page for P2 (for p1_61)
 
-![p6_2_xx.png](p6_2_xx.png)
+![p6_2_61.png](p6_2_61.png)
 
 ---
 
-### (20%) P7: 實作 p4_xx，將 tours 資訊，透過 SQL 之 create table, insert 指令，將 tour info 放入 Supabase 中。規則如下：
+### (20%) P7: 實作 p4_61，將 tours 資訊，透過 SQL 之 create table, insert 指令，將 tour info 放入 Supabase 中。規則如下：
 
-由你學號後兩碼除以 5 取餘數，取得兩個 tours info，然後自行添加一筆跟台灣有關的 tour (id=11)，圖片及文字，請自行從網路上截取，總共 3 筆 tours 放入 Supabase mid_tour_xx 資料表中。
+由你學號後兩碼除以 5 取餘數，取得兩個 tours info，然後自行添加一筆跟台灣有關的 tour (id=11)，圖片及文字，請自行從網路上截取，總共 3 筆 tours 放入 Supabase mid_tour_61 資料表中。
 
 用 insert 指令加入到 Supabase 時，字串中出現 let's 請改成 let us 或是直接將 "'" 這個特殊符號去除，以免出現錯誤後無法繼續。
 
@@ -109,56 +81,56 @@ Mid2: 40% 開放網路
 
 ##### => 會用到的檔案目錄
 
-![p7_1_xx.png](p7_1_xx.png)
+![p7_1_61.png](p7_1_61.png)
 
-##### => 用 SQL 指令加入 Supabase mid_tour_xx 3 筆資料
+##### => 用 SQL 指令加入 Supabase mid_tour_61 3 筆資料
 
 本題，老師用的學號是 89，因此下圖 id 出現 8, 9，還有一個 id=11 要自行去抓取跟台灣有關的旅遊圖片及文字。
 
-![p7_2_xx.png](p7_2_xx.png)
+![p7_2_61.png](p7_2_61.png)
 
 ##### => terminal 可以顯示從 Server 抓到的資料
 
 請用 JSON.stringfy() 來顯示，如下圖
 
-![p7_3_2_xx.png](p7_3_2_xx.png)
+![p7_3_2_61.png](p7_3_2_61.png)
 
 #### Your Answer
 
 ##### => 會用到的檔案目錄
 
-![p7_4_xx.png](p7_4_xx.png)
+![p7_4_61.png](p7_4_61.png)
 
-##### => 用 SQL 指令加入 Supabase mid_tour_xx 3 筆資料
+##### => 用 SQL 指令加入 Supabase mid_tour_61 3 筆資料
 
-![p7_5_xx.png](p7_5_xx.png)
+![p7_5_61.png](p7_5_61.png)
 
 ##### => Supabase SQL 指令
 
-![p7_6_xx.png](p7_6_xx.png)
+![p7_6_61.png](p7_6_61.png)
 
 ##### => Vercel Chrome 顯示
 
 ##### => Chrome 顯示 local & Vercel
 
 => local 顯示
-![p7_7_1_xx.png](p7_7_1_xx.png)
+![p7_7_1_61.png](p7_7_1_61.png)
 
 => Vercel 顯示
-![p7_7_2_xx.png](p7_7_2_xx.png)
+![p7_7_2_61.png](p7_7_2_61.png)
 
-##### => p4_xx/page.js 顯示
+##### => p4_61/page.js 顯示
 
-![p7_8_xx.png](p7_8_xx.png)
+![p7_8_61.png](p7_8_61.png)
 
-##### => db-tour.js 顯示可以取得 Supabase mid_tour_xx 資料，在 terminal console 中顯示 (用 JSON.stringfy()顯示 t 文字)
+##### => db-tour.js 顯示可以取得 Supabase mid_tour_61 資料，在 terminal console 中顯示 (用 JSON.stringfy()顯示 t 文字)
 
-![p7_9_xx.png](p7_9_xx.png)
+![p7_9_61.png](p7_9_61.png)
 
-##### => TourList_xx.js 顯示
+##### => TourList_61.js 顯示
 
-![p7_10_xx.png](p7_10_xx.png)
+![p7_10_61.png](p7_10_61.png)
 
-##### => Tour_xx.js 顯示
+##### => Tour_61.js 顯示
 
-![p7_11_xx.png](p7_11_xx.png)
+![p7_11_61.png](p7_11_61.png)
