@@ -1,0 +1,42 @@
+export const tours_61 = [
+  {
+    id: 1,
+    name: 'Best of Paris in 7 Days Tour',
+    info: `Paris is synonymous with the finest things that culture can offer — in art, fashion, food, literature, and ideas. On this tour, your Paris-savvy Rick Steves guide will immerse you in the very best of ...`,
+    img: '/mid1/paris.jpg',
+    remote: '',
+    price: 1995,
+  },
+  {
+    id: 2,
+    name: 'Best of Paris in 7 Days Tour',
+    info: `ireland is synonymous with the finest things that culture can offer — in art, fashion, food, literature, and ideas. On this tour, your Paris-savvy Rick Steves guide will immerse you in the very best of ...`,
+    img: '/mid1/ireland.jpeg',
+    remote: '',
+    price: 1995,
+  },
+  {
+    id: 3,
+    name: 'Best of Paris in 7 Days Tour',
+    info: `Paris is synonymous with the finest things that culture can offer — in art, fashion, food, literature, and ideas. On this tour, your Paris-savvy Rick Steves guide will immerse you in the very best of ...`,
+    img: '/mid1/italy.jpeg',
+    remote: '',
+    price: 1995,
+  },
+  {
+    id: 4,
+    name: 'Best of Paris in 7 Days Tour',
+    info: `poland is synonymous with the finest things that culture can offer — in art, fashion, food, literature, and ideas. On this tour, your Paris-savvy Rick Steves guide will immerse you in the very best of ...`,
+    img: '/mid1/poland.jpeg',
+    remote: '',
+    price: 1995,
+  },
+  {
+    id: 5,
+    name: 'Best of Paris in 7 Days Tour',
+    info: `vienna is synonymous with the finest things that culture can offer — in art, fashion, food, literature, and ideas. On this tour, your Paris-savvy Rick Steves guide will immerse you in the very best of ...`,
+    img: '/mid1/vienna.jpeg',
+    remote: '',
+    price: 1995,
+  },
+];
