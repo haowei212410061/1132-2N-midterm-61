@@ -1,4 +1,4 @@
-import SectionTitle_61 from '@/components/demo_xx/w02_tailwind_xx/SectionTitle_61';
+import SectionTitle_61 from '@/components/demo_61/w02_tailwind_xx/SectionTitle_61';
 export default function Mid1P3Page_xx() {
   return (
     <section className='bg-white py-20 ' id='about'>
