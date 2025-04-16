@@ -1,5 +1,5 @@
 import { getCabins } from '@/lib/db-oasis';
-import CabinCard_xx from '@/components/demo_xx/w05_oasis_xx/CabinCard_xx';
+import CabinCard_xx from '@/components/demo_61/w05_oasis_xx/CabinCard_xx';
 
 export const revalidate = 0;
 
