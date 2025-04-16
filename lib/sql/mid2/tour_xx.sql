@@ -1,0 +1,5 @@
+insert into tour_61 (id, name, info, img, remote,price)
+values
+(1, 'Paris is synonymous with the finest things that culture can offer — in art, fashion, food, literature, and ideas. On this tour, your Paris-savvy Rick Steves guide will immerse you in the very best of ...', '/images/photo-1.jpg', 'https://fmdfgtocqjmiobrfgssm.supabase.co/storage/v1/object/public/cabins_61//ireland.jpeg',1995),
+(2, 'Paris is synonymous with the finest things that culture can offer — in art, fashion, food, literature, and ideas. On this tour, your Paris-savvy Rick Steves guide will immerse you in the very best of ...', '/images/photo-1.jpg', 'https://fmdfgtocqjmiobrfgssm.supabase.co/storage/v1/object/public/cabins_61//italy.jpeg',1995),
+(3, 'Paris is synonymous with the finest things that culture can offer — in art, fashion, food, literature, and ideas. On this tour, your Paris-savvy Rick Steves guide will immerse you in the very best of ...', '/images/photo-1.jpg', 'https://fmdfgtocqjmiobrfgssm.supabase.co/storage/v1/object/public/cabins_61//taiwan.jpeg',1995),
